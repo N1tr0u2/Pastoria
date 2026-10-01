@@ -1,0 +1,13 @@
+name = "Better Modlist"
+filename = "better_modlist-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8dce8539dd11941ad48a0c8c8c9876b54a65f575"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8605756
+project-id = 1089803

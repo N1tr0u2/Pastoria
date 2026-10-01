@@ -1,0 +1,362 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: {
+		id: "minecraft:wooden_pickaxe"
+	}
+	id: "3188AC6C440F7520"
+	images: [
+		{
+			alpha: 1
+			height: 1.0d
+			id: "688EC7E9897432DB"
+			image: "ftbquests:textures/gui/background_white.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -13.75d
+		}
+		{
+			height: 3.5d
+			id: "30DFCBABE15BD8B1"
+			image: "ftbquests:textures/gui/title_facu_craftoria.png"
+			order: 10
+			rotation: 0.0d
+			width: 14.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 14.0d
+			id: "533FE5FA8DA8FA7E"
+			image: "ftbquests:textures/gui/masked_main_b.png"
+			rotation: 0.0d
+			width: 14.0d
+			x: -0.23049219687875677d
+			y: 1.8843637454981845d
+		}
+		{
+			color: 0
+			height: 1.0d
+			id: "5C272CCE0759E1AC"
+			image: "ftbquests:textures/shapes/circle/shape.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 14.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "craftoria:logo"
+			}
+			id: "78EDBDED3BFEC145"
+			rewards: [
+				{
+					count: 8
+					id: "6ED683453DE6CF40"
+					item: {
+						count: 1
+						id: "minecraft:stick"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7B69F2DC2F0BB73B"
+					item: {
+						count: 1
+						id: "minecraft:apple"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "69A50E4B984AF9AC"
+					item: {
+						count: 1
+						id: "minecraft:chest"
+					}
+					type: "item"
+				}
+				{
+					id: "36FC286DC4907734"
+					item: {
+						count: 1
+						id: "oathboundrelics:oathbound_relic"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "41BA785802B6F35E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78EDBDED3BFEC145"]
+			icon: {
+				id: "mekanismtools:steel_pickaxe"
+			}
+			id: "21E1E62AA4761EE2"
+			tasks: [{
+				id: "15E07774D19A4B1A"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21E1E62AA4761EE2"]
+			icon: {
+				components: {
+					"apotheosis:gem": "apotheosis:core/lunar"
+					"apotheosis:purity": "perfect"
+				}
+				id: "apotheosis:gem"
+			}
+			id: "2E7A46639993CCDE"
+			tasks: [{
+				id: "66BF2FED6B091A68"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["21E1E62AA4761EE2"]
+			icon: {
+				id: "minecraft:carrot"
+			}
+			id: "7B86C9C90997B3E3"
+			rewards: [{
+				id: "197D2218B956BE03"
+				item: {
+					count: 1
+					id: "solcarrot:food_book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D870ED2303FAE8A"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["21E1E62AA4761EE2"]
+			icon: {
+				id: "modern_industrialization:hv_steam_turbine"
+			}
+			id: "3C1D103FCEF249C8"
+			tasks: [{
+				id: "5DAF1EE0903D876A"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["78EDBDED3BFEC145"]
+			icon: {
+				id: "minecraft:writable_book"
+			}
+			id: "3189264EB89A2A5A"
+			tasks: [{
+				id: "013281B2076D21ED"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3189264EB89A2A5A"]
+			icon: {
+				id: "the_bumblezone:banner_pattern_peace"
+			}
+			id: "2F9560A5281DCDFD"
+			tasks: [{
+				id: "160306663D203B48"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3189264EB89A2A5A"]
+			icon: {
+				components: {
+					"justdirethings:forge_energy": 500000
+				}
+				id: "justdirethings:eclipsealloy_pickaxe"
+			}
+			id: "2BF835F8F73E8F06"
+			tasks: [{
+				id: "04FBCF96BB8F176A"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3189264EB89A2A5A"]
+			icon: {
+				id: "mekanism:portable_qio_dashboard"
+			}
+			id: "54EDB1B00E985AD4"
+			tasks: [{
+				id: "63DAD8D3277DA248"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["78EDBDED3BFEC145"]
+			icon: {
+				id: "the_bumblezone:bumble_bee_chestplate_1"
+			}
+			id: "2CB005B413D2B889"
+			tasks: [{
+				id: "339C2D373170BE2F"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["78EDBDED3BFEC145"]
+			icon: {
+				id: "minecraft:flowering_azalea_leaves"
+			}
+			id: "35885A1220BB34FC"
+			rewards: [{
+				id: "1EA74B0DEA01464D"
+				item: {
+					components: {
+						"ftbquests:missing_item": "sereneseasons:season_sensor"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4046229AF35778A3"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["78EDBDED3BFEC145"]
+			icon: {
+				id: "not_enough_glyphs:thread_sharp_paper"
+			}
+			id: "42F50CA00F913A46"
+			tasks: [{
+				id: "13B903DFDCAB1CD3"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["78EDBDED3BFEC145"]
+			icon: {
+				components: {
+					"apotheosis:gem": "apotheosis:the_nether/blood_lord"
+					"apotheosis:purity": "flawed"
+				}
+				id: "apotheosis:gem"
+			}
+			id: "473F20C25AAAF017"
+			tasks: [{
+				id: "570D439C4AC9F64C"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["78EDBDED3BFEC145"]
+			icon: {
+				id: "minecraft:armor_stand"
+			}
+			id: "0BF3E2C6D60A58BB"
+			tasks: [{
+				id: "64433571E92D5E65"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			disable_recipe_mod: true
+			disable_toast: true
+			id: "553B1610AAF3A5B6"
+			invisible: true
+			optional: true
+			rewards: [
+				{
+					id: "1E2405F90E62418A"
+					item: {
+						count: 1
+						id: "extended_industrialization:nano_quantum_saber"
+					}
+					type: "item"
+				}
+				{
+					id: "5E02F9AA5DEA08B9"
+					item: {
+						count: 1
+						id: "extended_industrialization:nano_quantum_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "19F0C42B0C55B2F8"
+					item: {
+						count: 1
+						id: "extended_industrialization:nano_quantum_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "116EDA53C342FB4E"
+					item: {
+						count: 1
+						id: "extended_industrialization:nano_quantum_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "5DA5EDDE8FD479B3"
+					item: {
+						count: 1
+						id: "extended_industrialization:nano_quantum_boots"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				disable_toast: true
+				id: "739E369CB49CA5E7"
+				stat: "minecraft:target_hit"
+				type: "stat"
+				value: 500
+			}]
+			x: 0.35d
+			y: 26.3d
+		}
+	]
+}

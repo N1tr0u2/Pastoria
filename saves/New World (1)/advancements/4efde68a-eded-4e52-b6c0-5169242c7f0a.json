@@ -1,0 +1,796 @@
+{
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2026-09-30 19:41:30 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2026-09-30 19:41:31 -0700",
+      "has_wct": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2026-09-30 19:41:31 -0700",
+      "has_wct": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/items/bag_of_holding": {
+    "criteria": {
+      "obtain_center_ingredient": "2026-09-30 19:41:31 -0700"
+    },
+    "done": false
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "actuallyadditions:pickup_coffee": {
+    "criteria": {
+      "coffee_beans": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2026-09-30 19:41:31 -0700",
+      "has_wpt": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2026-09-30 19:41:31 -0700",
+      "has_wpt": "2026-09-30 19:41:31 -0700",
+      "has_wct": "2026-09-30 19:41:31 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/trinkets/takeoff_belt": {
+    "criteria": {
+      "collected_rabbits_foot": "2026-09-30 19:41:31 -0700"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "theurgy:book_root": {
+    "criteria": {
+      "theurgy_present": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "animal_pen:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "oathboundrelics:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2026-09-30 19:41:39 -0700"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2026-09-30 19:41:40 -0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-09-30 19:41:40 -0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-09-30 19:41:40 -0700"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2026-09-30 19:41:43 -0700",
+      "in_mite_fortress": "2026-09-30 19:41:43 -0700"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:skyris_vale": "2026-09-30 19:41:43 -0700",
+      "biomeswevegone:forgotten_forest": "2026-09-30 20:52:36 -0700",
+      "biomeswevegone:bayou": "2026-09-30 19:58:47 -0700"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:skyris_vale": "2026-09-30 19:41:43 -0700"
+    },
+    "done": true
+  },
+  "modern_industrialization:quantum_sword": {
+    "criteria": {
+      "checkInv": "2026-09-30 20:00:16 -0700"
+    },
+    "done": true
+  },
+  "eternal_starlight:challenge_gatekeeper": {
+    "criteria": {
+      "challenged": "2026-09-30 20:00:33 -0700"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_orb_of_prophecy": {
+    "criteria": {
+      "has_item": "2026-09-30 20:00:41 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2026-09-30 20:00:42 -0700"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_hand": "2026-09-30 20:00:43 -0700"
+    },
+    "done": false
+  },
+  "eternal_starlight:obtain_seeking_eye": {
+    "criteria": {
+      "has_item": "2026-09-30 20:00:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-09-30 20:05:56 -0700"
+    },
+    "done": true
+  },
+  "pastel:lategame/collect_aether_vestiges": {
+    "criteria": {
+      "has_aether_vestiges": "2026-09-30 20:14:51 -0700"
+    },
+    "done": false
+  },
+  "pastel:collect_nightdew": {
+    "criteria": {
+      "gotten_previous": "2026-09-30 20:45:55 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/pylons/amethyst_pylon": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:45:55 -0700"
+    },
+    "done": false
+  },
+  "pastel:pastel": {
+    "criteria": {
+      "has_amethyst_shard": "2026-09-30 20:45:55 -0700"
+    },
+    "done": true
+  },
+  "pastel:collect_any_basic_shard": {
+    "criteria": {
+      "gotten_previous": "2026-09-30 20:45:55 -0700",
+      "has_amethyst_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": true
+  },
+  "pastel:break_cracked_dragonbone": {
+    "criteria": {
+      "gotten_previous": "2026-09-30 20:45:55 -0700"
+    },
+    "done": false
+  },
+  "pastel:hidden/collect_shards/amethyst": {
+    "criteria": {
+      "has_amethyst_shard": "2026-09-30 20:45:55 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/blocks/ender_glass": {
+    "criteria": {
+      "amethyst_shard": "2026-09-30 20:45:55 -0700"
+    },
+    "done": false
+  },
+  "pastel:collect_all_basic_shards": {
+    "criteria": {
+      "has_topaz_shard": "2026-09-30 20:45:58 -0700",
+      "gotten_previous": "2026-09-30 20:45:56 -0700",
+      "has_amethyst_shard": "2026-09-30 20:45:55 -0700",
+      "has_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/gemstone_chimes/amethyst_chime": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:45:55 -0700"
+    },
+    "done": false
+  },
+  "pastel:collect_radiating_ender": {
+    "criteria": {
+      "gotten_previous": "2026-09-30 20:45:55 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/blue_sapling": {
+    "criteria": {
+      "collected_amethyst_shard": "2026-09-30 20:45:56 -0700",
+      "collected_topaz_shard": "2026-09-30 20:45:58 -0700",
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/redstone/redstone_timer": {
+    "criteria": {
+      "has_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/equipment/razor_falchion": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/gemstone_chimes/any_chime": {
+    "criteria": {
+      "collected_any_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/green_sapling": {
+    "criteria": {
+      "collected_amethyst_shard": "2026-09-30 20:45:56 -0700",
+      "collected_topaz_shard": "2026-09-30 20:45:58 -0700",
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/light_blue_sapling": {
+    "criteria": {
+      "collected_amethyst_shard": "2026-09-30 20:45:56 -0700",
+      "collected_topaz_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/magenta_sapling": {
+    "criteria": {
+      "collected_amethyst_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/purple_sapling": {
+    "criteria": {
+      "collected_amethyst_shard": "2026-09-30 20:45:56 -0700",
+      "collected_topaz_shard": "2026-09-30 20:45:58 -0700",
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/equipment/crystal_armor_category": {
+    "criteria": {
+      "collected_amethyst": "2026-09-30 20:45:56 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/colored_saplings/orange_sapling": {
+    "criteria": {
+      "collected_amethyst_shard": "2026-09-30 20:45:56 -0700",
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/blocks/titration_barrel": {
+    "criteria": {
+      "collected_amethyst": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:break_gemstone_ore": {
+    "criteria": {
+      "gotten_previous": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/red_sapling": {
+    "criteria": {
+      "collected_amethyst_shard": "2026-09-30 20:45:56 -0700",
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/brown_sapling": {
+    "criteria": {
+      "collected_amethyst_shard": "2026-09-30 20:45:56 -0700",
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:place_pedestal": {
+    "criteria": {
+      "gotten_previous": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/items/crafting_tablet": {
+    "criteria": {
+      "collected_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:triggers/hints/amethyst_page0": {
+    "criteria": {
+      "advancement_gotten": "2026-09-30 20:45:56 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/gemstone_lights/any": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/redstone/block_light_detector": {
+    "criteria": {
+      "collected_corresponding_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/pink_sapling": {
+    "criteria": {
+      "collected_amethyst_shard": "2026-09-30 20:45:56 -0700",
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/pylons/any_pylon": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/equipment/amethyst_chestplate": {
+    "criteria": {
+      "collected_amethyst": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/gemstone_lights/amethyst": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:45:56 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/pylons/topaz_pylon": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/blocks/humus": {
+    "criteria": {
+      "collected_topaz_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/gemstone_lights/topaz": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/cyan_sapling": {
+    "criteria": {
+      "collected_topaz_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/redstone/item_detector": {
+    "criteria": {
+      "collected_corresponding_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:triggers/hints/topaz_page0": {
+    "criteria": {
+      "advancement_gotten": "2026-09-30 20:45:58 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/colored_saplings/lime_sapling": {
+    "criteria": {
+      "collected_topaz_shard": "2026-09-30 20:45:58 -0700",
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/gemstone_chimes/topaz_chime": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:hidden/collect_shards/topaz": {
+    "criteria": {
+      "has_topaz_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/blocks/lava_sponge": {
+    "criteria": {
+      "collected_topaz_shard": "2026-09-30 20:45:58 -0700",
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/blocks/present": {
+    "criteria": {
+      "collected_topaz": "2026-09-30 20:45:58 -0700",
+      "collected_citrine": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/equipment/lagoon_rod": {
+    "criteria": {
+      "collected_topaz": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/blocks/compacting_chest": {
+    "criteria": {
+      "collected_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/equipment/topaz_leggings": {
+    "criteria": {
+      "collected_amethyst": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/redstone/block_placer": {
+    "criteria": {
+      "has_shard": "2026-09-30 20:45:58 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/redstone/redstone_calculator": {
+    "criteria": {
+      "has_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/items/phantom_frames": {
+    "criteria": {
+      "collected_citrine": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/pylons/citrine_pylon": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/blocks/cmy_pedestal": {
+    "criteria": {
+      "collected_all_basic_shards": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/gemstone_lights/citrine": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/equipment/lucky_pickaxe": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/blocks/radiant_glass": {
+    "criteria": {
+      "collected_citrine": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:hidden/collect_shards/citrine": {
+    "criteria": {
+      "has_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/gemstone_chimes/citrine_chime": {
+    "criteria": {
+      "collected_gemstone_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:triggers/hints/citrine_page0": {
+    "criteria": {
+      "advancement_gotten": "2026-09-30 20:46:01 -0700"
+    },
+    "done": true
+  },
+  "pastel:unlocks/trinkets/priscillent_spectacles": {
+    "criteria": {
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/redstone/redstone_sand": {
+    "criteria": {
+      "collected_citrine": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/blocks/shimmerstone_lights": {
+    "criteria": {
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/equipment/citrine_boots": {
+    "criteria": {
+      "collected_amethyst": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/colored_saplings/yellow_sapling": {
+    "criteria": {
+      "collected_citrine_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/blocks/heartbound_chest": {
+    "criteria": {
+      "collected_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "pastel:unlocks/redstone/weather_detector": {
+    "criteria": {
+      "collected_corresponding_shard": "2026-09-30 20:46:01 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2026-09-30 22:36:12 -0700",
+      "minecraft:windswept_forest": "2026-09-30 23:08:47 -0700",
+      "minecraft:river": "2026-09-30 20:49:37 -0700",
+      "minecraft:windswept_hills": "2026-09-30 22:28:09 -0700"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-09-30 20:58:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-09-30 20:58:50 -0700"
+    },
+    "done": true
+  },
+  "netherdescent:root": {
+    "criteria": {
+      "tick": "2026-09-30 20:59:19 -0700"
+    },
+    "done": true
+  },
+  "netherdescent:final_descent": {
+    "criteria": {
+      "netherdescent:crimson_gardens": "2026-09-30 20:59:19 -0700"
+    },
+    "done": false
+  },
+  "netherdescent:crimson_gardens/root": {
+    "criteria": {
+      "netherdescent:crimson_gardens": "2026-09-30 20:59:19 -0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2026-09-30 21:02:34 -0700"
+    },
+    "done": true
+  },
+  "modern_industrialization:quantum_chestplate": {
+    "criteria": {
+      "checkInv": "2026-09-30 22:46:47 -0700"
+    },
+    "done": true
+  },
+  "pastel:enter_wireless_redstone_preservation_ruin": {
+    "criteria": {
+      "gotten_previous": "2026-09-30 22:29:19 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-09-30 23:07:47 -0700",
+      "minecraft:spider": "2026-09-30 23:07:32 -0700",
+      "minecraft:slime": "2026-09-30 23:08:09 -0700"
+    },
+    "done": false
+  },
+  "pastel:enter_dike_gate_preservation_ruin": {
+    "criteria": {
+      "gotten_previous": "2026-09-30 22:29:21 -0700"
+    },
+    "done": false
+  },
+  "pastel:midgame/enter_liquid_crystal": {
+    "criteria": {
+      "enter_liquid_crystal": "2026-09-30 22:33:24 -0700"
+    },
+    "done": false
+  },
+  "pastel:enter_color_mixing_preservation_ruin": {
+    "criteria": {
+      "gotten_previous": "2026-09-30 22:29:19 -0700"
+    },
+    "done": false
+  },
+  "pastel:fail_to_glitch_into_preservation_ruin": {
+    "criteria": {
+      "yeet": "2026-09-30 22:29:34 -0700"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2026-09-30 23:04:19 -0700"
+    },
+    "done": true
+  },
+  "pastel:find_preservation_ruins": {
+    "criteria": {
+      "in_preservation_ruins": "2026-09-30 22:29:19 -0700"
+    },
+    "done": true
+  },
+  "pastel:hidden/break_black_materia": {
+    "criteria": {
+      "broken_black_materia": "2026-09-30 22:33:09 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-09-30 23:07:34 -0700"
+    },
+    "done": true
+  },
+  "pastel:triggers/hints/preservation_ruins_page0": {
+    "criteria": {
+      "advancement_gotten": "2026-09-30 22:29:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2026-09-30 23:07:32 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

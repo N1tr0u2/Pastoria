@@ -1,0 +1,22 @@
+{
+    "colors": {
+      "accent": "#ed79eb",
+      "base": "#606060"
+    },
+    "display": {
+      "offset": [0, 1, 0],
+      "scale": 1.75
+    },
+    "item": {
+      "id": "relics:kinetic_belt",
+      "count": 1
+    },
+    "animation": {
+        "type": "spinning",
+        "speed": 0.20
+      },
+    "name": {
+      "color": "#ed79eb",
+      "translate": "trophy.relics.name"
+    }
+  }

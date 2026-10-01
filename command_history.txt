@@ -1,0 +1,27 @@
+/kill
+/kill @s
+/kill @e
+/gamerule keepInventory true
+/kill
+/kubejs reload server-scripts
+/reload
+/kubejs errors
+/kubejs errors server
+/kubejs errors startup
+/kubejs reload server-scripts
+/reload
+/kubejs reload server-scripts
+/reload
+/execute in minecraft:the_nether as PastelTheKobold run tp 1432 210 1432
+/tp 1432 210 1432
+/tp 1432.0 210 1432.0
+/execute in minecraft:overworld as PastelTheKobold run tp 0 0 0
+/execute in minecraft:overworld as PastelTheKobold run tp 0.0 0 0.0
+/execute in minecraft:overworld as PastelTheKobold run tp 0 100 0
+/time set noon
+/ftbquests reload quests
+/locate biome pastel:azure_spires
+/gamemode spectator
+/gamemode survival
+/gamemode spectator
+/gamemode creative

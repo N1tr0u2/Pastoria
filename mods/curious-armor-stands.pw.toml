@@ -1,0 +1,13 @@
+name = "Curious Armor Stands"
+filename = "curious_armor_stands-8.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "492e84151a58fb2ceb16ed3764dc183a4a5f9134"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7691824
+project-id = 398784

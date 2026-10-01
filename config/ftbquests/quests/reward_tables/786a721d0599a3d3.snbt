@@ -1,0 +1,31 @@
+{
+	id: "786A721D0599A3D3"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{
+			count: 64
+			id: "4CDD1F1D66DD7854"
+			item: {
+				count: 1
+				id: "minecraft:amethyst_shard"
+			}
+		}
+		{
+			count: 64
+			id: "50444222CD619A80"
+			item: {
+				count: 1
+				id: "pastel:citrine_shard"
+			}
+		}
+		{
+			count: 64
+			id: "40D6755B7975A43B"
+			item: {
+				count: 1
+				id: "pastel:topaz_shard"
+			}
+		}
+	]
+}
