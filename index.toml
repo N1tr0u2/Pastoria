@@ -10793,10 +10793,6 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "ddd3e7173d783d5257d0292e5579342c8c91395e0f1b8e715a4ce730861d309d"
 
 [[files]]
-file = "gitattributes"
-hash = "ae50fc926237b1a54bddacf053d4975490467e235831512674f650d236374a26"
-
-[[files]]
 file = "icon.png"
 hash = "ef3f7732d0c85f0eb5c0c582eb88bacc34fe9afa2023466ced6eb553236c1ed1"
 
