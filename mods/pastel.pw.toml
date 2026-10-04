@@ -1,0 +1,8 @@
+name = "pastel"
+filename = "pastel-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Egassy/Special-pack-files/refs/heads/main/1.21.1/jars/pastel-1.2.0.jar"
+hash-format = "sha256"
+hash = "eb8ec9ad2b8109c046c4665b0feb8fbb7e0fb300371eccb75d4bb6718a13c1f9"

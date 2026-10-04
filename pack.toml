@@ -1,0 +1,13 @@
+name = "Pastoria"
+author = "Pastel"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "028a4c1199a33751657dcc7b2288f64e489ef7f062e2a93232c4a5b3b6635745"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"
