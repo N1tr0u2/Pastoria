@@ -1,9 +1,0 @@
-{
-	"shown_reasons": {
-		"MissingUnsupportedDependencies": true,
-		"WasClosedByWindows": true
-	},
-	"too_many_changes": {
-		"dont_show_again": true
-	}
-}
