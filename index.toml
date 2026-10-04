@@ -23139,8 +23139,8 @@ hash = "92966b8c29bba9fc6c418b20ee748710b64c68ad82de2f42c1a0ebc6c2e70b34"
 metafile = true
 
 [[files]]
-file = "mods/tmrv.pw.toml"
-hash = "a5078671de81e41435a95e17701de64138a3c13efc4f50cc7f5780603508a112"
+file = "mods/toomanyrecipeviewers.pw.toml"
+hash = "a3ab449385f4c611a9d67b6feb026cfb72f53512cb6b1f0be5c0681a2449c9cb"
 metafile = true
 
 [[files]]
