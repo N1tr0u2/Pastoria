@@ -21766,15 +21766,6 @@ hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
 metafile = true
 
 [[files]]
-file = "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar"
-hash = "38fd4cb9ae7eee090f352c92b09dc54eb873363523d11b2354157d3214546816"
-
-[[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "d42774e0aa7f8b411e29d285f31ce697c3fb06620df71309377875f1ad2bd513"
-metafile = true
-
-[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "ef7ead6fef222d447334d10f98c231d9fd71b1aabebda139480fbee985e69af2"
 metafile = true
@@ -22843,10 +22834,6 @@ metafile = true
 file = "mods/polylib.pw.toml"
 hash = "d6f062c819cca04b39627eb48c6bd28d43af1c72e51ab4a8069c7435208d29fd"
 metafile = true
-
-[[files]]
-file = "mods/polymorph-neoforge-1.2.0+1.21.1.jar.disabled"
-hash = "4a09b7a3c8ea4f5b79acadb405a18140fe20d882e6930403c46cc7ad49c5ec06"
 
 [[files]]
 file = "mods/post-it.pw.toml"
