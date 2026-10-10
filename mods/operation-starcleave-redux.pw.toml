@@ -1,0 +1,13 @@
+name = "Operation: Starcleave Redux"
+filename = "operation_starcleave-neoforge-mc1.21.1-0.2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fbce369e2675e66d65b120bee00b54d2688701d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7455919
+project-id = 1428556

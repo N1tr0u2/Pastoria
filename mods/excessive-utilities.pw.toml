@@ -1,0 +1,13 @@
+name = "Excessive Utilities"
+filename = "excessive-utilities-1.21.1-1.10.0-build.64.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8907bb5665d45cbfee75c13fa17dff8e919a3996"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9084826
+project-id = 1482270
