@@ -21739,7 +21739,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "6f9520e0172a5198af290f6f087ecc57d197dcf21445b704d60424adef70d019"
+hash = "04fea0f3f55873a7488c64d617762f430744354908e7f385f385d4fa75b535bb"
 metafile = true
 
 [[files]]
@@ -21899,7 +21899,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "9c9c3fc4e70fdef8e92fbfe5257c4ff1930190912dde02cc2e62bf8b2cbda4b7"
+hash = "01e7bccb2e9592d445afa073b52ef4d83c3dc02f1d9269a0b7e937a16245023c"
 metafile = true
 
 [[files]]
