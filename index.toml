@@ -21568,6 +21568,11 @@ hash = "0fcc280552aedf1d52dd53469cf867663f503470b89d2498b6d6ef71cb9b14b5"
 metafile = true
 
 [[files]]
+file = "mods/fancy-tab-sections.pw.toml"
+hash = "f5d173ad2b31e193cda9ba84e929de45c13a99e7007d73ba6cced3fd35a0075a"
+metafile = true
+
+[[files]]
 file = "mods/fancy-toasts.pw.toml"
 hash = "f55002d67b29c863c8b959f280ac98ec43bb69c5c8b54a799615463706f82624"
 metafile = true
@@ -22040,6 +22045,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "4f4c50584cc075254b9e2d6bb19a30eb30beef2c2308b569789819d5f3dd39be"
+metafile = true
+
+[[files]]
+file = "mods/libtooltips.pw.toml"
+hash = "d5cb66006b0894fc53407b13579f6dda1d624ec0dbb73fd3b47d45c00605a5d8"
 metafile = true
 
 [[files]]
@@ -22818,6 +22828,11 @@ hash = "9a1a6eeca35adf67800f7e09429f12d55d45b135052d25c19d692fe501081fba"
 metafile = true
 
 [[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "d151568fb8fc516d10bd43434c5f48e75dbcd1dcb870556a6f1b9b9ebee7eea7"
+metafile = true
+
+[[files]]
 file = "mods/stick-it.pw.toml"
 hash = "e5b5f576228d7755a8d5ffdce81905b27902933b520ba42f581b33c880708b0f"
 metafile = true
@@ -22985,6 +23000,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "18c3668f40a894f98d7e50ea448df6f0e0486e5324ca6eb074f60ceca6b16028"
+metafile = true
+
+[[files]]
+file = "mods/wds-selling-bin.pw.toml"
+hash = "1f3cf4c045d532a242e17a58f0f39d1883cf697cc084b8b558ac7ee43ab0a833"
 metafile = true
 
 [[files]]
