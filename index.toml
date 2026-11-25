@@ -21733,6 +21733,11 @@ hash = "a74bd6c6212276185b5c405dfc7c2981edd36e84e89f5a160df32ceab9178b63"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "04fea0f3f55873a7488c64d617762f430744354908e7f385f385d4fa75b535bb"
+metafile = true
+
+[[files]]
 file = "mods/glassential-renewed.pw.toml"
 hash = "ded50c3938b272353a610500198a82c2ad260cf8cdafb0fe1158f019130022df"
 metafile = true
@@ -21885,6 +21890,11 @@ metafile = true
 [[files]]
 file = "mods/irons-jewelry.pw.toml"
 hash = "37fe38166b00750a5ea83646f6c1c990767c5fbc58ded16f7e46293e68706083"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "01e7bccb2e9592d445afa073b52ef4d83c3dc02f1d9269a0b7e937a16245023c"
 metafile = true
 
 [[files]]
