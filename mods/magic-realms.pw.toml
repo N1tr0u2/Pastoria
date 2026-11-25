@@ -1,0 +1,13 @@
+name = "Magic Realms"
+filename = "magic_realms-1.5_HF.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8ba792f87d964e3e5378900a2accdd240a7b3ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9046359
+project-id = 1509181

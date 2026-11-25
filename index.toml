@@ -20878,6 +20878,11 @@ hash = "e5f3b8e2a7e161eb1b4d614639cfa61dce2f758ea1d252329f7dd0f4b9dcf9cf"
 metafile = true
 
 [[files]]
+file = "mods/apprentices-codex.pw.toml"
+hash = "126e68f23322aeed50a2309c5641f602c9aa030f1e5712cd2011cd90dc6961e5"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b3350253d4ea0cf2898b763a8b3e84dd77d7edcf61cf0547a9c6e92ad2d1039c"
 metafile = true
@@ -21400,6 +21405,11 @@ metafile = true
 [[files]]
 file = "mods/desired-servers.pw.toml"
 hash = "b061a72f04838f2ab84e44ff386f2351919c1fe9c7d1135ed48a9a1f9c6a37d0"
+metafile = true
+
+[[files]]
+file = "mods/discerning-the-eldritch.pw.toml"
+hash = "a49b1327dc10e2d2a63b2dd0e297c3e13f3b2b56c45f76c28ce4dd67f3f5ddea"
 metafile = true
 
 [[files]]
@@ -22118,6 +22128,16 @@ hash = "259919b0e9d33c955446afc3bd45cf8a5849d7532ae48f7b9d92e1f0de8d8f03"
 metafile = true
 
 [[files]]
+file = "mods/magic-of-color.pw.toml"
+hash = "d0a0038979863a2d711146e982a359f3950be71fa1b55d71119d93d7eaccc949"
+metafile = true
+
+[[files]]
+file = "mods/magic-realms.pw.toml"
+hash = "416358b9ba8f3d5324c481f9a0ae27e1789f04f1179f8cba2db4cc75475f6f87"
+metafile = true
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "8708a74972786c0e9ae7f34527e041cdaaed6b815298652f8b10ec0c8ca29b44"
 metafile = true
@@ -22645,6 +22665,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "90522b3cf1946275f2ca92176da692a4624bdb4fbaec7d33f19b7d5e1c753c96"
+metafile = true
+
+[[files]]
+file = "mods/rpg-dialogue.pw.toml"
+hash = "e115b0b48d07d2f71bcd132461a05f962b8a8fd93d77f06cff5fadaeb4f1ea36"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "RPG Dialogue"
+filename = "rpg_dialogue-neoforge-1.21.1-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29d86cef2682494e6e247faad458ceae138660f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9552835
+project-id = 1636309

@@ -1,0 +1,13 @@
+name = "Discerning The Eldritch"
+filename = "discerning_the_eldritch-1.4.6-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4b611922a735fea2c1aeef0cab5273e0577bcdf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9709805
+project-id = 1143065
