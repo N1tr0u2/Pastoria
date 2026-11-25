@@ -20748,11 +20748,6 @@ hash = "6c3dd2bb9103b4fa12bc994f11826eb28c7faf37140e6c85a4ff811ec2e36313"
 metafile = true
 
 [[files]]
-file = "mods/ae2-wcwt.pw.toml"
-hash = "21fb20aab79e6ded2e22d76de038cf662dc74249ccc11027da667df1c553504d"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "18871125e4157ddd51a5903145e84e0b908e442de5fcc34796a2d5aa599c244f"
 metafile = true
