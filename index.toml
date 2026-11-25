@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "35dd0e59aed8c3d945edf4ae42fc1686b8b5657c1e32b8bad261cee8bdcf7bff"
+hash = "bd461a631f8acdd4b80624068eacf61b458a109260cf2e0f51e843a27983365c"
 
 [[files]]
 file = "config/Advancedperipherals/general.toml"
