@@ -21229,8 +21229,18 @@ hash = "ad53ea9c8d5feea537a131e1003cc8620762b8e874dd46041715d6b93ab56ec4"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-transmission-linkage.pw.toml"
+hash = "60a1ce7ac8bb16432b736696cf9aaa507b31542c3dac4c5f81ea136052e06e46"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronauticstoolgun.pw.toml"
+hash = "d5937dd17a1ee9b73062105f7ffc19b46fd75c3456bdde65d119200638ad68fe"
 metafile = true
 
 [[files]]
@@ -21546,6 +21556,11 @@ metafile = true
 [[files]]
 file = "mods/fancy-toasts.pw.toml"
 hash = "f55002d67b29c863c8b959f280ac98ec43bb69c5c8b54a799615463706f82624"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
 metafile = true
 
 [[files]]
