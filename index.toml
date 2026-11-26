@@ -3998,7 +3998,7 @@ hash = "626cf6f22c72ea90fa74ff409d6c94dd579cfde5a74232289f7f0051f4e89691"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
-hash = "fc2dbe63c3d79a5f28decd6ed2f0f337b9ddbd309389674cbf77f56268e5434e"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/displaydelight-common.toml"
@@ -20704,7 +20704,7 @@ metafile = true
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
-hash = "39e2e3faf038381bb5d9cfa570fa568a8399806b281d5929bf484991d70f88cb"
+hash = "e576823631e7a0fe6b8891ce4a5f0aa8a6f365ec56f0227bd5cca457f38d4a21"
 metafile = true
 
 [[files]]
