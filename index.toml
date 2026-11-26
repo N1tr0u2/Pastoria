@@ -22728,11 +22728,6 @@ hash = "c438bc2f4f72f81af67ddbf86b2a9b835d64118c04d40e04391fba0ca317845a"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "3530f595140c2c21c0e443e15980f3d06343e04ad9b02798cb51a2bead6768d9"
-metafile = true
-
-[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "630268e4d46cd156196e8c87a8765c89c09970df548c11acaa30d720b5b53ac2"
 metafile = true
