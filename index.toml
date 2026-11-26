@@ -6313,12 +6313,8 @@ file = "config/openloader/packs/Ace's Tweaks 5 - LITE VER - Dirty Strip.rar"
 hash = "cd010273eca148f9df135a6ba4d862c8358c3cff016d122b7d3c9deb61caa51c"
 
 [[files]]
-file = "config/openloader/packs/painstel/data/painstoria/recipe/painstel.json"
-hash = "4668003cd0220082d172bf212e417b7f0edaa69d6de9815dbaca3c126f4a41bc"
-
-[[files]]
-file = "config/openloader/packs/painstel/pack.mcmeta"
-hash = "c9a42518d072a8897172892a863812ff01e94a0dd9bca41835b9a574a2e2e2c3"
+file = "config/openloader/packs/painstel.zip"
+hash = "ef9185b9521f0921280eba80b7ba5d1789a3015401f538173b7c5d45f351b749"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
@@ -21376,11 +21372,6 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "81246b9f803189de55a7ab153f15565fe31cf0ea5e14b893e36aad7c83f2b28f"
-metafile = true
-
-[[files]]
-file = "mods/dark-mode-everywhere.pw.toml"
-hash = "b73fdd4c8c2a589a1852df30cbcaceb9a25bdaa063e01f20441407e6669645d0"
 metafile = true
 
 [[files]]
