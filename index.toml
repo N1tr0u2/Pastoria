@@ -20117,6 +20117,10 @@ file = "kubejs/data/puffish_skills/puffish_skills/config.json"
 hash = "ff8bd1ecfca6cc68f546fcc2a8067436942b2f4caeb060a66d4a0ce86dddbcdb"
 
 [[files]]
+file = "kubejs/data/trofers/trofers/painstel.json"
+hash = "9df9f20c8ecc201b68a376ac05c9dd3c743e082bb4188f0a7fc799f9ceab2a69"
+
+[[files]]
 file = "kubejs/data/trofers/trofers/trophies/applied_energistics.json"
 hash = "2bba2ae4f6956c5049d5778c3f4449ac74b26286ca3cd7aa6eb87e70868e10a2"
 
@@ -20191,10 +20195,6 @@ hash = "1f36f331678c84443cc348c3f0c116287bb24fccee8d9f6b7b3f7f96f7759104"
 [[files]]
 file = "kubejs/data/trofers/trofers/trophies/occultism.json"
 hash = "7362ec823bb8f243d9ed037bbe09330fe811386b7b169ea7ff67062be38d46f7"
-
-[[files]]
-file = "kubejs/data/trofers/trofers/trophies/painstel.json"
-hash = "9df9f20c8ecc201b68a376ac05c9dd3c743e082bb4188f0a7fc799f9ceab2a69"
 
 [[files]]
 file = "kubejs/data/trofers/trofers/trophies/pnc.json"
