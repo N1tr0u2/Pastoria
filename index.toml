@@ -21415,6 +21415,11 @@ hash = "e2a3aca8101a179153b92e99000a10d06e4b5d285d358fbe457a53690d12dab5"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "efde2b89b63b4f507cfb0c0267328ee24863eec0a32245b56f045b78fbe55238"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b9a27803cfeb378166650fab328a470294da00c3a94e96bf4dc124d9128cc1d4"
 metafile = true
