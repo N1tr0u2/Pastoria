@@ -12045,7 +12045,7 @@ file = "kubejs/assets/justdirethings/guides/justdirethings/justdirethingsbook/up
 hash = "dcdd4df2875fc2345c179d4b041bb478a4b94f321651b2ebf3cf51d0f3d3a5ac"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/painstel.png"
+file = "kubejs/assets/kubejs/textures/item/painstel.png"
 hash = "1663a6b625cdb4b5ebc1425664c0e9966160877e5b94fbf42b3ed69d53f26abc"
 
 [[files]]
@@ -20198,7 +20198,7 @@ hash = "7362ec823bb8f243d9ed037bbe09330fe811386b7b169ea7ff67062be38d46f7"
 
 [[files]]
 file = "kubejs/data/trofers/trofers/trophies/painstel.json"
-hash = "83fe68f6a659c11c877edd070872f7ec4c00fe9f2d9aaefb879def20b2699fd4"
+hash = "9df9f20c8ecc201b68a376ac05c9dd3c743e082bb4188f0a7fc799f9ceab2a69"
 
 [[files]]
 file = "kubejs/data/trofers/trofers/trophies/pnc.json"

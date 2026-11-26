@@ -23,7 +23,7 @@
 		"rewards": {
 			"mob_effect": {
 				"duration": 400,
-				"id": "minecraft:dolphins_grace"
+				"id": "pastel:divinity"
 			}
 		}
 	}
