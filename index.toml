@@ -6313,6 +6313,14 @@ file = "config/openloader/packs/Ace's Tweaks 5 - LITE VER - Dirty Strip.rar"
 hash = "cd010273eca148f9df135a6ba4d862c8358c3cff016d122b7d3c9deb61caa51c"
 
 [[files]]
+file = "config/openloader/packs/painstel/data/painstoria/recipe/painstel.json"
+hash = "4668003cd0220082d172bf212e417b7f0edaa69d6de9815dbaca3c126f4a41bc"
+
+[[files]]
+file = "config/openloader/packs/painstel/pack.mcmeta"
+hash = "c9a42518d072a8897172892a863812ff01e94a0dd9bca41835b9a574a2e2e2c3"
+
+[[files]]
 file = "config/overflowingbars-client.toml"
 hash = "f32cb54a99b0f143fe0db5b5664a8df7bff668c8d4291267f2ce8873da7f4439"
 
@@ -12035,6 +12043,10 @@ hash = "35ee13f782859d47e3f49ae1997a88a144c9a0e3275b8982a8420b59d7156f64"
 [[files]]
 file = "kubejs/assets/justdirethings/guides/justdirethings/justdirethingsbook/upgrades.md"
 hash = "dcdd4df2875fc2345c179d4b041bb478a4b94f321651b2ebf3cf51d0f3d3a5ac"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/painstel.png"
+hash = "1663a6b625cdb4b5ebc1425664c0e9966160877e5b94fbf42b3ed69d53f26abc"
 
 [[files]]
 file = "kubejs/assets/laserio/guideme_guides/laseriobook.json"
@@ -20183,6 +20195,10 @@ hash = "1f36f331678c84443cc348c3f0c116287bb24fccee8d9f6b7b3f7f96f7759104"
 [[files]]
 file = "kubejs/data/trofers/trofers/trophies/occultism.json"
 hash = "7362ec823bb8f243d9ed037bbe09330fe811386b7b169ea7ff67062be38d46f7"
+
+[[files]]
+file = "kubejs/data/trofers/trofers/trophies/painstel.json"
+hash = "83fe68f6a659c11c877edd070872f7ec4c00fe9f2d9aaefb879def20b2699fd4"
 
 [[files]]
 file = "kubejs/data/trofers/trofers/trophies/pnc.json"

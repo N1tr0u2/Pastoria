@@ -1,0 +1,39 @@
+{
+  "type": "pastel:enchanter",
+  "ingredients": [
+    {
+      "item": "malum:soul_stained_steel_knife"
+    },
+    {
+      "item": "minecraft:nautilus_shell"
+    },
+    {
+      "item": "neovitae:rune_sacrifice"
+    },
+    {
+      "item": "malum:wicked_spirit"
+    },
+    {
+      "item": "pastel:aether_vestiges"
+    },
+    {
+      "item": "malum:fused_consciousness"
+    },
+    {
+      "item": "operation_starcleave:blessed_cloth"
+    },
+    {
+      "item": "ars_zero:multiphase_orb"
+    },
+    {
+      "item": "occultism:dragonyst_dust"
+    }
+  ],
+  "required_advancement": "pastel:lategame/collect_pure_resource",
+  "required_experience": 1000,
+  "result": {
+    "count": 1,
+    "id": "kubejs:painstel"
+  },
+  "time": 600
+}

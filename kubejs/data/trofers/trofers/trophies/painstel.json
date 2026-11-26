@@ -1,0 +1,30 @@
+{
+	"colors": {
+		"accent": "#aedde6",
+		"base": "#606060"
+	},
+	"display": {
+		"offset": [0, 1, 0],
+		"scale": 2.0
+	},
+	"item": {
+		"id": "kubejs:painstel",
+		"count": 1
+	},
+	"animation": {
+		"type": "spinning",
+		"speed": 0.40
+	},
+	"name": {
+		"color": "#aedde6",
+		"translate": "Painstel!"
+	},
+	"effects": {
+		"rewards": {
+			"mob_effect": {
+				"duration": 400,
+				"id": "minecraft:dolphins_grace"
+			}
+		}
+	}
+}
