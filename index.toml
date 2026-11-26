@@ -6257,10 +6257,6 @@ file = "config/openloader/packs/08_Better SB Upgrades.zip"
 hash = "429dd5e2452e124432c0bdd297a027c916a58b04d009a38c48eedb914cef6078"
 
 [[files]]
-file = "config/openloader/packs/09_Ars Nouveau Refresh.zip"
-hash = "5752ab75d299483a911ca7ad6d6efe7627a8a4e70a5d896d336daf7b7c7a8f07"
-
-[[files]]
 file = "config/openloader/packs/12_Fancy_Beds-v4.1.zip"
 hash = "ceb50953d84fa1efb89ef88f2b695159e54cb84e0b4c4802101f742c580ff3ae"
 
