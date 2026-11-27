@@ -250,7 +250,7 @@ hash = "71941b2fa0fee4cd647b3d2536e0f0755f35ae0f22c0fe3c0016975cce8da3f2"
 
 [[files]]
 file = "config/ae2/common.json"
-hash = "9f3248ae2e84c5d39f7abcc0809eb5beb8d2eb7eac98f037a3dad494c2d7294b"
+hash = "e44cc195f7c452e3e470ea1ef16d17e47008d6a0d27b4f8523b91bd9ae5b5619"
 
 [[files]]
 file = "config/ae2ct-client.toml"
@@ -399,6 +399,10 @@ hash = "a838a6f03858c5adb13d880b47ff64ed341aac43f717be18153fb83689e838a2"
 [[files]]
 file = "config/aquaculture-common.toml"
 hash = "e8d9fdd5fe9b62b1dc3019fdb9489406654f0336d05bc23f217a1152ad0efe24"
+
+[[files]]
+file = "config/arborealascent.toml"
+hash = "3337551494dc2f468b9926151e960e683d5c86e010692f4c770b1c59d1659e49"
 
 [[files]]
 file = "config/arc-common.yaml"
@@ -6327,6 +6331,10 @@ hash = "02f9c8198337de9eac0dfefe1af545fdf22925fb907fdcb21f249058c858f443"
 [[files]]
 file = "config/particle_effects-client.toml"
 hash = "589948c7f6beb39b46329d04d3e18a8a42704dc790f3f1bf5c34aa538149ddc1"
+
+[[files]]
+file = "config/passablefoliage-common.yaml"
+hash = "819942483588da4af784343699df404b1a6b9e2db4f41facfc109b0e8e50395c"
 
 [[files]]
 file = "config/pastel.json5"

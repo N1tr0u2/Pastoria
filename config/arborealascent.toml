@@ -1,0 +1,12 @@
+# Skip checking if a log is part of a tree - always climb logs!
+# default: false
+skipTreeCheck = false
+# The maximum depth to scan for blocks to discover a tree
+# default: 100
+maxDepth = 100
+# The minimum number of leaves to check for in a tree
+# default: 5
+minLeaves = 5
+# The minimum number of logs to check for in a tree
+# default: 2
+minLogs = 2
