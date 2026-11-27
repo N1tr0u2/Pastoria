@@ -4161,6 +4161,14 @@ file = "config/euphoria_patcher/settings.toml"
 hash = "9192c1c9ee8522bd2a9f30b44f9936792dd4a3c8a1d72c6b70092de015b6f27e"
 
 [[files]]
+file = "config/excessive_utilities-client.toml"
+hash = "20e748e593c3ab7295933766ddbfaa98dda0ee19741bb5b8d7cc90b98669d4a3"
+
+[[files]]
+file = "config/excessive_utilities-server.toml"
+hash = "2e8dfccba51bda1e1b41c70f51f2b27969b85f77912ceb1ff2708bd5e2d855bc"
+
+[[files]]
 file = "config/exmi/enable_config.json"
 hash = "866afef53d7811d3f8a4475e928bf9e473d19f9131790815f379da62b65390ce"
 
