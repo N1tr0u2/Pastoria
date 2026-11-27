@@ -164,7 +164,7 @@
             "predicate_type": "minecraft:block_match"
           },
           "state": {
-            "Name": "spectrum:paltaeria_ore"
+            "Name": "pastel:paltaeria_ore"
           }
         }
       ]

@@ -5,7 +5,7 @@
 	#Waiting time between Checks in Minutes
 	# Default: 30
 	# Range: 0 ~ 1440
-	timer = 30
+	timer = 300
 	#Do a clear if there are more than X items
 	# Default: 1000
 	# Range: > 0

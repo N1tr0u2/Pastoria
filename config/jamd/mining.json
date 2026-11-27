@@ -1613,7 +1613,7 @@
             "predicate_type": "minecraft:tag_match"
           },
           "state": {
-            "Name": "spectrum:shimmerstone_ore"
+            "Name": "pastel:shimmerstone_ore"
           }
         },
         {
@@ -1622,16 +1622,16 @@
             "predicate_type": "minecraft:tag_match"
           },
           "state": {
-            "Name": "spectrum:deepslate_shimmerstone_ore"
+            "Name": "pastel:deepslate_shimmerstone_ore"
           }
         },
         {
           "target": {
-            "tag": "spectrum:blackslag_ore_replaceables",
+            "tag": "pastel:blackslag_ore_replaceables",
             "predicate_type": "minecraft:tag_match"
           },
           "state": {
-            "Name": "spectrum:blackslag_shimmerstone_ore"
+            "Name": "pastel:blackslag_shimmerstone_ore"
           }
         }
       ]
@@ -2857,35 +2857,6 @@
         },
         {
           "type": "minecraft:biome"
-        }
-      ],
-      "targets": [
-        {
-          "target": {
-            "tag": "minecraft:stone_ore_replaceables",
-            "predicate_type": "minecraft:tag_match"
-          },
-          "state": {
-            "Name": "spectrum:azurite_ore"
-          }
-        },
-        {
-          "target": {
-            "tag": "minecraft:deepslate_ore_replaceables",
-            "predicate_type": "minecraft:tag_match"
-          },
-          "state": {
-            "Name": "spectrum:deepslate_azurite_ore"
-          }
-        },
-        {
-          "target": {
-            "tag": "spectrum:blackslag_ore_replaceables",
-            "predicate_type": "minecraft:tag_match"
-          },
-          "state": {
-            "Name": "spectrum:blackslag_azurite_ore"
-          }
         }
       ]
     },

@@ -3362,7 +3362,7 @@ hash = "a48664186b225a03ccc6ca4b937544eef8623fc159b8209ea93d7ec51dcf592a"
 
 [[files]]
 file = "config/crashutilities-server.toml"
-hash = "abbfc316f0390d239613ba0573af531e3fb4d56349c7b373a04eedf2ea9fdaab"
+hash = "068eebf822e8c2cc81ba5bcc5ae16d81a7885a5d67b7d43ddb0fdd7e7f9d3aa4"
 
 [[files]]
 file = "config/create-client.toml"
@@ -3963,18 +3963,6 @@ hash = "2621f78b4ceed021c88fc03b10db9da72c78cdd45fc84c6d81ffe630777650fc"
 [[files]]
 file = "config/cyclopscore-common.toml"
 hash = "fede2239a8566281381e13f863d6a30a326ea4a89bca5c7b5badad75f9536fd4"
-
-[[files]]
-file = "config/darkmodeeverywhere-client.toml"
-hash = "ab489f0c07cb5feb9ca8a934b1090e27258a1aaf030e586916250dfa1bf2657f"
-
-[[files]]
-file = "config/darkmodeeverywhere-startup.toml"
-hash = "736a8035fae8da8995c3dd666359799418e3e632d586f73ab03d80832dcc552d"
-
-[[files]]
-file = "config/darkmodeeverywhereshaders.json"
-hash = "82921a5ef283daabc87c48df8c867fb24e399c9c3e6c07ff8f207af7da0e83fa"
 
 [[files]]
 file = "config/databank-client.toml"
@@ -5298,7 +5286,7 @@ hash = "2ce564d201f386ab2ccce75788a74a6d26f005dfc3594a6a6c00fbdc0f7e1fda"
 
 [[files]]
 file = "config/ftbultimine-server.snbt"
-hash = "eefb3109b102e06a783c303d0a8a15b2393abcf1c58e5afb55b6e0453047c8ab"
+hash = "59a4b14b8a70dd67c78630ffb5c67f6aed032bb0c2ec681e1acdfbe7aaff7c56"
 
 [[files]]
 file = "config/ftbxmodcompat.snbt"
@@ -5642,15 +5630,15 @@ hash = "a938a9b76606bf9310d3bebe1e1b328c24ec7f2e94e22179be3c5057840fc758"
 
 [[files]]
 file = "config/jamd/end.json"
-hash = "d3dce97c321c1ef373cf57e24544c2fd37aa909bae5faefd4a16715f1461f48d"
+hash = "7eb511eb53715450177e2485773f90f7f851f780c3239e384c7ee9920e363843"
 
 [[files]]
 file = "config/jamd/mining.json"
-hash = "4e6897d0195910530af7706803e2f1d5bf0140d670d624a1c4b0ce59d992d4e9"
+hash = "4ae85a0c0cc353ed11f0b9e276cb9f07c58de3279c4c15c2245edf73d006b53c"
 
 [[files]]
 file = "config/jamd/nether.json"
-hash = "c8d411268ebe2696c9561228db54c2d406f789b47c3066d683012c59f91708fc"
+hash = "ea0c011ddbb4863ea6f15daf20da2754d84c2474670e734e04d73f82f44c094f"
 
 [[files]]
 file = "config/jearchaeology-common.toml"
@@ -22946,6 +22934,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "d323a56389acaff215e3dc54e9db35141e8398d111644b45a970b114a29299df"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
 metafile = true
 
 [[files]]
