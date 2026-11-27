@@ -7690,7 +7690,7 @@ hash = "8a201ac6b572e9b56ea1de77e13a8d6c8fab64c89727649346e22e6e27413577"
 
 [[files]]
 file = "config/yigd.json"
-hash = "f487001a1b46a95b427f9b81a3497cd02544aac8c567e89370bfd8d7852ac04f"
+hash = "9b928bd28b228ddb73da1a78ec83970c0f9254643669411072bfae70e606e3e6"
 
 [[files]]
 file = "config/yukamibackpacktab-client.toml"
