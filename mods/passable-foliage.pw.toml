@@ -1,0 +1,13 @@
+name = "Passable Foliage 🌳 (Neo/Forge)"
+filename = "PassableFoliage-1.21.1-NeoForge-9.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2a140b11b67695d8c31ba118f23b19a845bb162"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8966277
+project-id = 379887

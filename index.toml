@@ -20881,6 +20881,11 @@ hash = "e5f3b8e2a7e161eb1b4d614639cfa61dce2f758ea1d252329f7dd0f4b9dcf9cf"
 metafile = true
 
 [[files]]
+file = "mods/arboreal-ascent.pw.toml"
+hash = "5c7b9288901d5f34bbda1b9032f6a7c4eefea03e084e064ffc4d7b6bbd4b3206"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b3350253d4ea0cf2898b763a8b3e84dd77d7edcf61cf0547a9c6e92ad2d1039c"
 metafile = true
@@ -21981,6 +21986,11 @@ hash = "e79316261eabd8e81f7ec3508ecc3a746699034e7d453a427bf1c99c4c90eab3"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "083c9d609335090c7fd62c13c146c0739306f597096e257fbdae6cdbb1917019"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "926b2ede150c88dc66b22da5fc733026d97ab657a834fa63e76e07bb719ada26"
 metafile = true
@@ -22478,6 +22488,11 @@ metafile = true
 [[files]]
 file = "mods/particle-effects-reforged.pw.toml"
 hash = "482769969352bf48ac36b9c4853fad95ee2a9ae654e044a7332672777ce08e1c"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "0d3c3a803fde541f1ca8b01e223ee463b8f9d570fe323a921f5706579b5d11a7"
 metafile = true
 
 [[files]]

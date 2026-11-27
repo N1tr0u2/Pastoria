@@ -1,0 +1,13 @@
+name = "Arboreal Ascent"
+filename = "ArborealAscent-3.0.0+1.21+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7256094029588d762e10dc6c66db97b104a5e0f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7887423
+project-id = 1321308
