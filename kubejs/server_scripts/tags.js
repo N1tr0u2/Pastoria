@@ -111,7 +111,6 @@ ServerEvents.tags('item', e => {
   e.remove('reliquified_artifacts:mimificable', ['artifacts:everlasting_beef', 'artifacts:eternal_steak']);
 
   // Portable Brazier Blacklist
-  e.add('ars_controle:ritual_blacklist', ['ars_nouveau:ritual_flight']);
 
   /**
    * @param {string[]} tags

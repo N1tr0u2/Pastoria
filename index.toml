@@ -20594,7 +20594,7 @@ hash = "035ebd4f30b8825df97d7e8b7da2475ddc45605e404560163390f0c29a28f57a"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "d20cc883e518c9fa1a91fc31f2de6118c8b5b8aa991526566cec6a14e8fd8970"
+hash = "59328627ad4e3b4b3cf38d991cbbdaea2b5250392d137f2ee5e05534479e06d8"
 
 [[files]]
 file = "kubejs/server_scripts/trophies.js"
