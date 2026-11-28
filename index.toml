@@ -21220,6 +21220,11 @@ hash = "489d8bfe5030952db66c70345afed410c12c78df43c451b522c1a8be9c9eec54"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
 file = "mods/crafting-station.pw.toml"
 hash = "f6127584389c0846b212c2384f5098a0e01dd2b956796079b628798ef05321e4"
 metafile = true
