@@ -4482,7 +4482,7 @@ hash = "75e18847dfd79cf078a1e8b17fd1bd3eaeb0b0d3973b52b4b3f339f657adea47"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome.snbt"
-hash = "2d69ce9bbb192cad9486aba2f42782f8b882c4dcb021d01e5cc32362d490c83c"
+hash = "ea3428695cf9e15d7e9a0ed8762b97f8351160582d3a1d492b2a8b250bc7fa60"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
